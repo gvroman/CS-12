@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{9B0ECC32-A5F7-46CF-BEC5-1A296E45BB2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vorony", "Count_voron\Vorony.csproj", "{F76F6905-5D74-48DB-AB26-90C92A26AAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod2", "Figures\Mod2.csproj", "{FB39C0C3-AA9D-42A3-BEE1-B9F339C7419A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi", "Fibonachi\Fibonachi.csproj", "{B80BA7B7-6ACD-481D-B003-A40C463A6C2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_factorial", "factorial\Mod3_factorial.csproj", "{833B3F21-1402-4368-8466-8A0FE77FB407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_Geometry", "..\Users\grigorii.roman\Music\Desktop\Lek_bez\C# 12.0\Labs\mod3\Geometry\Mod3_Geometry.csproj", "{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0ECC32-A5F7-46CF-BEC5-1A296E45BB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0ECC32-A5F7-46CF-BEC5-1A296E45BB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0ECC32-A5F7-46CF-BEC5-1A296E45BB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0ECC32-A5F7-46CF-BEC5-1A296E45BB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76F6905-5D74-48DB-AB26-90C92A26AAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76F6905-5D74-48DB-AB26-90C92A26AAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76F6905-5D74-48DB-AB26-90C92A26AAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76F6905-5D74-48DB-AB26-90C92A26AAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB39C0C3-AA9D-42A3-BEE1-B9F339C7419A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB39C0C3-AA9D-42A3-BEE1-B9F339C7419A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB39C0C3-AA9D-42A3-BEE1-B9F339C7419A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB39C0C3-AA9D-42A3-BEE1-B9F339C7419A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80BA7B7-6ACD-481D-B003-A40C463A6C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80BA7B7-6ACD-481D-B003-A40C463A6C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80BA7B7-6ACD-481D-B003-A40C463A6C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80BA7B7-6ACD-481D-B003-A40C463A6C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833B3F21-1402-4368-8466-8A0FE77FB407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833B3F21-1402-4368-8466-8A0FE77FB407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833B3F21-1402-4368-8466-8A0FE77FB407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833B3F21-1402-4368-8466-8A0FE77FB407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EFF524F-C687-4598-BCEE-F2D1BEE68547}
+	EndGlobalSection
+EndGlobal
