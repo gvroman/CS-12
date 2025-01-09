@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonachi", "Fibonachi\Fibo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_factorial", "factorial\Mod3_factorial.csproj", "{833B3F21-1402-4368-8466-8A0FE77FB407}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_Geometry", "..\Users\grigorii.roman\Music\Desktop\Lek_bez\C# 12.0\Labs\mod3\Geometry\Mod3_Geometry.csproj", "{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_Geometry", "Geometry\Mod3_Geometry.csproj", "{EA0255A3-7D1A-4A6F-944F-07BCA08F6EE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
