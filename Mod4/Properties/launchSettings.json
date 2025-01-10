@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Mod4": {
+      "commandName": "Project",
+      "commandLineArgs": "100 200 300 400"
+    }
+  }
+}
